@@ -2,6 +2,9 @@ pyrogram<=2.0.33
 tgcrypto<=1.2.3
 aiohttp<=3.8.1
 python-dotenv<=0.20.0
+aiohttp
+Flask
+gunicorn
 motor
 aiofiles
 dnspython
